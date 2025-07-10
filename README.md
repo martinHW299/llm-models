@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project compares the accuracy of two large language models (LLMs) — **GPT-4** and **Gemini Pro** — in estimating nutritional values from real food images, against a **human nutritionist** specialist serving as the ground truth.
+This project compares the accuracy of two large language models (LLMs) — **GPT-4**, **Gemini Pro** and **Anthropic** — in estimating nutritional values from real food images, against a **human nutritionist** specialist serving as the ground truth.
 
 The LLMs were tasked with analyzing the same set of images and returning:
 - A brief description of the plate
@@ -34,10 +34,6 @@ The goal is to assess how closely LLMs can match expert human judgment on food n
 | Macro     | Models Compared |
 |-----------|-----------------|
 | Weight    | GPT-4 vs GT, Gemini vs GT |
-| Calories  | GPT-4 vs GT, Gemini vs GT |
-| Proteins  | GPT-4 vs GT, Gemini vs GT |
-| Carbs     | GPT-4 vs GT, Gemini vs GT |
-| Fats      | GPT-4 vs GT, Gemini vs GT |
 
 ## ✅ Outcome
 
