@@ -1,0 +1,502 @@
+[
+  {
+    "id":1.0,
+    "description":"Malta, Agua, Lúpulo, Levadura",
+    "calories":185.0,
+    "proteins":1.9,
+    "carbohydrates":22.5,
+    "fats":0.0,
+    "serving_size":353.0,
+    "observaciones":""
+  },
+  {
+    "id":2.0,
+    "description":"Aceituna, Ajo, Pasta, Oregano, Aceite de oliva, Tomate",
+    "calories":274.75,
+    "proteins":4.99,
+    "carbohydrates":49.1,
+    "fats":7.8,
+    "serving_size":268.0,
+    "observaciones":""
+  },
+  {
+    "id":3.0,
+    "description":"Tomate, Salmón, Huevo, Croasant",
+    "calories":514.0,
+    "proteins":32.4,
+    "carbohydrates":33.0,
+    "fats":27.4,
+    "serving_size":340.0,
+    "observaciones":""
+  },
+  {
+    "id":4.0,
+    "description":"Papas fritas, Aceite de oliva, Carne de res, Salsa",
+    "calories":547.0,
+    "proteins":24.3,
+    "carbohydrates":65.0,
+    "fats":31.0,
+    "serving_size":223.0,
+    "observaciones":""
+  },
+  {
+    "id":5.0,
+    "description":"Remolacha, Arroz, Carne de res",
+    "calories":371.5,
+    "proteins":25.3,
+    "carbohydrates":40.3,
+    "fats":12.05,
+    "serving_size":340.0,
+    "observaciones":""
+  },
+  {
+    "id":6.0,
+    "description":"Brocoli, Lechuga, Carne de res, Tomate",
+    "calories":206.75,
+    "proteins":21.675,
+    "carbohydrates":4.55,
+    "fats":11.425,
+    "serving_size":205.0,
+    "observaciones":""
+  },
+  {
+    "id":7.0,
+    "description":"Palta, Salmón",
+    "calories":223.0,
+    "proteins":20.7,
+    "carbohydrates":2.6,
+    "fats":14.3,
+    "serving_size":160.0,
+    "observaciones":""
+  },
+  {
+    "id":8.0,
+    "description":"Café espresso, Agua",
+    "calories":3.0,
+    "proteins":0.0,
+    "carbohydrates":0.5,
+    "fats":0.1,
+    "serving_size":30.0,
+    "observaciones":""
+  },
+  {
+    "id":9.0,
+    "description":" Café, Leche",
+    "calories":58.0,
+    "proteins":3.95,
+    "carbohydrates":6.4,
+    "fats":1.8,
+    "serving_size":150.0,
+    "observaciones":""
+  },
+  {
+    "id":10.0,
+    "description":"Agua",
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":500.0,
+    "observaciones":""
+  },
+  {
+    "id":11.0,
+    "description":"Vino blanco",
+    "calories":57.5,
+    "proteins":0.05,
+    "carbohydrates":1.8,
+    "fats":0.0,
+    "serving_size":70.0,
+    "observaciones":""
+  },
+  {
+    "id":12.0,
+    "description":"Salame",
+    "calories":340.0,
+    "proteins":19.0,
+    "carbohydrates":0.6,
+    "fats":28.5,
+    "serving_size":90.0,
+    "observaciones":""
+  },
+  {
+    "id":13.0,
+    "description":"Plátano variedad seda",
+    "calories":86.0,
+    "proteins":1.18,
+    "carbohydrates":19.98,
+    "fats":0.2,
+    "serving_size":100.0,
+    "observaciones":""
+  },
+  {
+    "id":14.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":15.0,
+    "description":"Almendras, Maní variedad perla",
+    "calories":370.7,
+    "proteins":13.7,
+    "carbohydrates":12.98,
+    "fats":29.32,
+    "serving_size":60.0,
+    "observaciones":"Logro distinguir las almendras y el maní"
+  },
+  {
+    "id":16.0,
+    "description":"Agua, Canela, Azúcar granulada refinada",
+    "calories":65.07,
+    "proteins":0.07,
+    "carbohydrates":16.08,
+    "fats":0.06,
+    "serving_size":317.0,
+    "observaciones":"Estoy en duda si es un te o un refresco, llegué a la conclusión de que era un refresco debido a que está servido en un vaso."
+  },
+  {
+    "id":17.0,
+    "description":"Leche fresca fluida de vaca, Chocolate con leche de cobertura",
+    "calories":242.0,
+    "proteins":8.12,
+    "carbohydrates":32.76,
+    "fats":8.63,
+    "serving_size":140.0,
+    "observaciones":"Vaso pequeño de leche batida (con espuma)"
+  },
+  {
+    "id":18.0,
+    "description":"Huevo entero de gallina de granja, Tocino",
+    "calories":491.5,
+    "proteins":15.03,
+    "carbohydrates":11.44,
+    "fats":42.81,
+    "serving_size":150.0,
+    "observaciones":""
+  },
+  {
+    "id":19.0,
+    "description":"Chocolate en barra con azúcar",
+    "calories":236.5,
+    "proteins":1.9,
+    "carbohydrates":37.61,
+    "fats":8.7,
+    "serving_size":40.0,
+    "observaciones":""
+  },
+  {
+    "id":20.0,
+    "description":"Agua con hielo",
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":400.0,
+    "observaciones":""
+  },
+  {
+    "id":21.0,
+    "description":"Agua natural",
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":250.0,
+    "observaciones":"Lo amarillo parece una esponja, no entendí muy bien la imagen"
+  },
+  {
+    "id":22.0,
+    "description":"Agua, Cocoa en polvo, Azúcar granulada refinada",
+    "calories":127.2,
+    "proteins":3.07,
+    "carbohydrates":23.43,
+    "fats":2.35,
+    "serving_size":260.0,
+    "observaciones":""
+  },
+  {
+    "id":23.0,
+    "description":"Almendras, Maní variedad perla, Castaña, Cajú",
+    "calories":682.4,
+    "proteins":20.5,
+    "carbohydrates":18.3,
+    "fats":58.56,
+    "serving_size":130.0,
+    "observaciones":"Ingredientes incompletos, no sé qué es el palito"
+  },
+  {
+    "id":24.0,
+    "description":"Vino tinto",
+    "calories":76.0,
+    "proteins":0.2,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":100.0,
+    "observaciones":"Toda la información nutricional está basada en el producto final."
+  },
+  {
+    "id":25.0,
+    "description":"Pollo pechuga, Zuccini, Zanahoria, Champiñones, Vainita",
+    "calories":257.7,
+    "proteins":21.06,
+    "carbohydrates":16.4,
+    "fats":12.02,
+    "serving_size":250.0,
+    "observaciones":""
+  },
+  {
+    "id":26.0,
+    "description":"Huevo entero de gallina de granja",
+    "calories":132.0,
+    "proteins":13.52,
+    "carbohydrates":2.49,
+    "fats":7.5,
+    "serving_size":100.0,
+    "observaciones":""
+  },
+  {
+    "id":27.0,
+    "description":"Manzana entera",
+    "calories":125.8,
+    "proteins":0.47,
+    "carbohydrates":0.2,
+    "fats":0.34,
+    "serving_size":170.0,
+    "observaciones":""
+  },
+  {
+    "id":28.0,
+    "description":"Agua, Harina, Levadura, Aceite de oliva, Salsa de tomate, Queso mozzarella, Albahaca",
+    "calories":2322.29,
+    "proteins":83.02,
+    "carbohydrates":328.77,
+    "fats":75.04,
+    "serving_size":912.0,
+    "observaciones":""
+  },
+  {
+    "id":29.0,
+    "description":"Mandarina variedad owari satsuma",
+    "calories":193.2,
+    "proteins":1.78,
+    "carbohydrates":44.58,
+    "fats":0.86,
+    "serving_size":210.0,
+    "observaciones":""
+  },
+  {
+    "id":30.0,
+    "description":"Fideo, Perejil",
+    "calories":375.0,
+    "proteins":9.86,
+    "carbohydrates":81.84,
+    "fats":0.86,
+    "serving_size":100.0,
+    "observaciones":"No estoy muy segura del perejil pero no se consigue observar bien que tipo de hoja verde es, debido a que es un tipo de ensalada, llego a la conclusión de el uso de esa hierba."
+  },
+  {
+    "id":31.0,
+    "description":"Agua, Levadura, Azúcar, Harina, Sal",
+    "calories":3706.8,
+    "proteins":82.3,
+    "carbohydrates":816.58,
+    "fats":12.64,
+    "serving_size":1670.0,
+    "observaciones":"Las medidas son en base a una marraqueta entera"
+  },
+  {
+    "id":32.0,
+    "description":"Pollo pierna, Pepino",
+    "calories":211.0,
+    "proteins":21.07,
+    "carbohydrates":7.53,
+    "fats":10.74,
+    "serving_size":200.0,
+    "observaciones":"Solo consigo distinguir el pepino y la otra guarnición no se qué podría ser."
+  },
+  {
+    "id":33.0,
+    "description":"Fideo, Queso mozzarella, Tocino, Lechuga crespa",
+    "calories":431.8,
+    "proteins":15.75,
+    "carbohydrates":29.57,
+    "fats":27.79,
+    "serving_size":120.0,
+    "observaciones":""
+  },
+  {
+    "id":34.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":35.0,
+    "description":"Queso cuartirolo",
+    "calories":317.0,
+    "proteins":28.07,
+    "carbohydrates":1.38,
+    "fats":22.09,
+    "serving_size":100.0,
+    "observaciones":""
+  },
+  {
+    "id":36.0,
+    "description":"Plátano criollo, Huevo entero de gallina de granja, Majadito",
+    "calories":1371.8,
+    "proteins":72.56,
+    "carbohydrates":156.86,
+    "fats":49.65,
+    "serving_size":320.0,
+    "observaciones":"La composición del majadito está basada en el producto final tomando en cuenta los ingredientes que lleva."
+  },
+  {
+    "id":37.0,
+    "description":"Charque (carne deshilachada), Huevo, Quesillo",
+    "calories":3311.0,
+    "proteins":110.3,
+    "carbohydrates":17.01,
+    "fats":44.53,
+    "serving_size":400.0,
+    "observaciones":"Se consigue ver en la imagen 3 unidades de huevo y una porción pequeña de quesillo"
+  },
+  {
+    "id":38.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":39.0,
+    "description":"Carne, Arroz, Huevo entero de gallina de granja, Cebolla, Tomate, Aceite",
+    "calories":662.3,
+    "proteins":41.48,
+    "carbohydrates":55.19,
+    "fats":31.56,
+    "serving_size":355.0,
+    "observaciones":""
+  },
+  {
+    "id":40.0,
+    "description":"Carne magra, Papa variedad alfa, Huevo entero de gallina de granja, Tomado ovalado maduro, Cebolla blanca cabeza",
+    "calories":436.6,
+    "proteins":34.89,
+    "carbohydrates":48.75,
+    "fats":13.27,
+    "serving_size":450.0,
+    "observaciones":""
+  },
+  {
+    "id":41.0,
+    "description":"Fricasé",
+    "calories":363.0,
+    "proteins":19.86,
+    "carbohydrates":51.06,
+    "fats":8.67,
+    "serving_size":300.0,
+    "observaciones":"Toda la composición nutricional está basada en el producto final."
+  },
+  {
+    "id":42.0,
+    "description":"Charque, Huevo entero de gallina de granja, Papa variedad runa, Quesillo, Trigo comercial para mote",
+    "calories":1403.0,
+    "proteins":123.46,
+    "carbohydrates":124.05,
+    "fats":45.76,
+    "serving_size":700.0,
+    "observaciones":""
+  },
+  {
+    "id":43.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":44.0,
+    "description":"Azúcar, Agua, Canela, Durazno variedad amarilla",
+    "calories":427.02,
+    "proteins":0.3,
+    "carbohydrates":106.26,
+    "fats":0.11,
+    "serving_size":432.0,
+    "observaciones":""
+  },
+  {
+    "id":45.0,
+    "description":"Maní, Arroz, Papa, Agua",
+    "calories":330.8,
+    "proteins":10.83,
+    "carbohydrates":40.8,
+    "fats":13.78,
+    "serving_size":610.0,
+    "observaciones":""
+  },
+  {
+    "id":46.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":47.0,
+    "description":"Carne (lomo), Plátano criollo, Arroz, Ajo",
+    "calories":407.96,
+    "proteins":27.92,
+    "carbohydrates":66.47,
+    "fats":3.37,
+    "serving_size":222.0,
+    "observaciones":""
+  },
+  {
+    "id":48.0,
+    "description":"Arroz con leche",
+    "calories":24.0,
+    "proteins":2.53,
+    "carbohydrates":3.17,
+    "fats":0.18,
+    "serving_size":100.0,
+    "observaciones":"Toda la composición nutricional está basada en el producto final."
+  },
+  {
+    "id":49.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  },
+  {
+    "id":50.0,
+    "description":null,
+    "calories":0.0,
+    "proteins":0.0,
+    "carbohydrates":0.0,
+    "fats":0.0,
+    "serving_size":0.0,
+    "observaciones":""
+  }
+]
