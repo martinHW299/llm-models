@@ -1,0 +1,1002 @@
+[
+  {
+    "success": true,
+    "index": 1,
+    "file_name": "1.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Cerveza",
+      "serving_size": 330.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Cerveza",
+      "calories": 137.0,
+      "proteins": 1.3,
+      "carbohydrates": 11.0,
+      "fats": 0.0,
+      "serving_size": 330.0
+    },
+    "processing_time": 9.314000844955444
+  },
+  {
+    "success": true,
+    "index": 2,
+    "file_name": "2.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Pasta penne con salsa de tomate",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Pasta penne con salsa de tomate",
+      "calories": 420.0,
+      "proteins": 13.0,
+      "carbohydrates": 78.0,
+      "fats": 3.5,
+      "serving_size": 350.0
+    },
+    "processing_time": 8.82634711265564
+  },
+  {
+    "success": true,
+    "index": 3,
+    "file_name": "3.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Croissant con semillas, huevos revueltos y salmón ahumado con tomates cherry",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Croissant con semillas, huevos revueltos y salmón ahumado con tomates cherry",
+      "calories": 420.0,
+      "proteins": 22.0,
+      "carbohydrates": 28.0,
+      "fats": 25.0,
+      "serving_size": 250.0
+    },
+    "processing_time": 9.097892045974731
+  },
+  {
+    "success": true,
+    "index": 4,
+    "file_name": "4.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Lomo de cerdo envuelto en tocino con salsa y papas fritas",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Lomo de cerdo envuelto en tocino con salsa y papas fritas",
+      "calories": 820.0,
+      "proteins": 45.0,
+      "carbohydrates": 40.0,
+      "fats": 55.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 9.388319969177246
+  },
+  {
+    "success": true,
+    "index": 5,
+    "file_name": "5.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Cerdo con pimientos, arroz blanco y repollo morado",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Cerdo con pimientos, arroz blanco y repollo morado",
+      "calories": 520.0,
+      "proteins": 35.0,
+      "carbohydrates": 55.0,
+      "fats": 15.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 8.269845247268677
+  },
+  {
+    "success": true,
+    "index": 6,
+    "file_name": "6.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Filete de res en rodajas con salsa teriyaki, acompañado de verduras salteadas y gajos de naranja",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Filete de res en rodajas con salsa teriyaki, acompañado de verduras salteadas y gajos de naranja",
+      "calories": 420.5,
+      "proteins": 38.2,
+      "carbohydrates": 22.7,
+      "fats": 15.3,
+      "serving_size": 350.0
+    },
+    "processing_time": 9.126728296279907
+  },
+  {
+    "success": true,
+    "index": 7,
+    "file_name": "7.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Aguacate y salmón ahumado",
+      "serving_size": 200.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Aguacate y salmón ahumado",
+      "calories": 360.0,
+      "proteins": 22.0,
+      "carbohydrates": 8.0,
+      "fats": 28.0,
+      "serving_size": 200.0
+    },
+    "processing_time": 8.295119047164917
+  },
+  {
+    "success": true,
+    "index": 8,
+    "file_name": "8.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Café expreso",
+      "serving_size": 40.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Café expreso",
+      "calories": 2.0,
+      "proteins": 0.3,
+      "carbohydrates": 0.0,
+      "fats": 0.0,
+      "serving_size": 40.0
+    },
+    "processing_time": 8.541979789733887
+  },
+  {
+    "success": true,
+    "index": 9,
+    "file_name": "9.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Taza de café con leche",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Taza de café con leche",
+      "calories": 120.0,
+      "proteins": 6.0,
+      "carbohydrates": 10.0,
+      "fats": 5.0,
+      "serving_size": 250.0
+    },
+    "processing_time": 8.388524055480957
+  },
+  {
+    "success": true,
+    "index": 10,
+    "file_name": "10.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Agua",
+      "serving_size": 500.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Agua",
+      "calories": 0.0,
+      "proteins": 0.0,
+      "carbohydrates": 0.0,
+      "fats": 0.0,
+      "serving_size": 500.0
+    },
+    "processing_time": 7.401595830917358
+  },
+  {
+    "success": true,
+    "index": 11,
+    "file_name": "11.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Vino blanco",
+      "serving_size": 150.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Vino blanco",
+      "calories": 123.0,
+      "proteins": 0.1,
+      "carbohydrates": 3.8,
+      "fats": 0.0,
+      "serving_size": 150.0
+    },
+    "processing_time": 5.692728757858276
+  },
+  {
+    "success": true,
+    "index": 12,
+    "file_name": "12.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Rodajas de salami",
+      "serving_size": 60.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Rodajas de salami",
+      "calories": 240.0,
+      "proteins": 12.0,
+      "carbohydrates": 1.2,
+      "fats": 20.0,
+      "serving_size": 60.0
+    },
+    "processing_time": 7.418040990829468
+  },
+  {
+    "success": true,
+    "index": 13,
+    "file_name": "13.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Plátano",
+      "serving_size": 120.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Plátano",
+      "calories": 110.4,
+      "proteins": 1.3,
+      "carbohydrates": 28.8,
+      "fats": 0.3,
+      "serving_size": 120.0
+    },
+    "processing_time": 6.637705087661743
+  },
+  {
+    "success": true,
+    "index": 14,
+    "file_name": "14.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Filete de carne con polenta, rodajas de zucchini grilladas y berenjena grillada, con una rodaja de limón y lechuga",
+      "serving_size": 550.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Filete de carne con polenta, rodajas de zucchini grilladas y berenjena grillada, con una rodaja de limón y lechuga",
+      "calories": 720.5,
+      "proteins": 58.2,
+      "carbohydrates": 45.3,
+      "fats": 32.7,
+      "serving_size": 550.0
+    },
+    "processing_time": 7.53636908531189
+  },
+  {
+    "success": true,
+    "index": 15,
+    "file_name": "15.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Mix de frutos secos (almendras, castañas de cajú, maní)",
+      "serving_size": 50.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Mix de frutos secos (almendras, castañas de cajú, maní)",
+      "calories": 290.0,
+      "proteins": 9.5,
+      "carbohydrates": 10.0,
+      "fats": 25.0,
+      "serving_size": 50.0
+    },
+    "processing_time": 7.180400133132935
+  },
+  {
+    "success": true,
+    "index": 16,
+    "file_name": "16.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Té",
+      "serving_size": 200.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Té",
+      "calories": 2.0,
+      "proteins": 0.1,
+      "carbohydrates": 0.5,
+      "fats": 0.0,
+      "serving_size": 200.0
+    },
+    "processing_time": 14.454890012741089
+  },
+  {
+    "success": true,
+    "index": 17,
+    "file_name": "17.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Café y dos bombones de chocolate",
+      "serving_size": 100.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Café y dos bombones de chocolate",
+      "calories": 210.0,
+      "proteins": 3.0,
+      "carbohydrates": 25.0,
+      "fats": 11.0,
+      "serving_size": 100.0
+    },
+    "processing_time": 8.851316928863525
+  },
+  {
+    "success": true,
+    "index": 18,
+    "file_name": "18.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Dos huevos fritos con tocino",
+      "serving_size": 200.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Dos huevos fritos con tocino",
+      "calories": 520.0,
+      "proteins": 30.0,
+      "carbohydrates": 2.0,
+      "fats": 45.0,
+      "serving_size": 200.0
+    },
+    "processing_time": 6.101014852523804
+  },
+  {
+    "success": true,
+    "index": 19,
+    "file_name": "19.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Barra de chocolate oscuro",
+      "serving_size": 30.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Barra de chocolate oscuro",
+      "calories": 170.0,
+      "proteins": 2.2,
+      "carbohydrates": 13.5,
+      "fats": 12.0,
+      "serving_size": 30.0
+    },
+    "processing_time": 6.492673873901367
+  },
+  {
+    "success": true,
+    "index": 20,
+    "file_name": "20.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Bebida fría con hielo",
+      "serving_size": 473.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Bebida fría con hielo",
+      "calories": 188.0,
+      "proteins": 0.0,
+      "carbohydrates": 47.0,
+      "fats": 0.0,
+      "serving_size": 473.0
+    },
+    "processing_time": 7.607795000076294
+  },
+  {
+    "success": true,
+    "index": 21,
+    "file_name": "21.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Agua",
+      "serving_size": 200.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Agua",
+      "calories": 0.0,
+      "proteins": 0.0,
+      "carbohydrates": 0.0,
+      "fats": 0.0,
+      "serving_size": 200.0
+    },
+    "processing_time": 7.173255920410156
+  },
+  {
+    "success": true,
+    "index": 22,
+    "file_name": "22.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Chocolate caliente",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Chocolate caliente",
+      "calories": 190.0,
+      "proteins": 6.0,
+      "carbohydrates": 25.0,
+      "fats": 7.0,
+      "serving_size": 250.0
+    },
+    "processing_time": 6.81163215637207
+  },
+  {
+    "success": true,
+    "index": 23,
+    "file_name": "23.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Mix de frutos secos, pretzels y dátiles",
+      "serving_size": 150.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Mix de frutos secos, pretzels y dátiles",
+      "calories": 720.0,
+      "proteins": 18.0,
+      "carbohydrates": 70.0,
+      "fats": 42.0,
+      "serving_size": 150.0
+    },
+    "processing_time": 8.794840097427368
+  },
+  {
+    "success": true,
+    "index": 24,
+    "file_name": "24.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Vino tinto",
+      "serving_size": 150.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Vino tinto",
+      "calories": 125.0,
+      "proteins": 0.1,
+      "carbohydrates": 4.0,
+      "fats": 0.0,
+      "serving_size": 150.0
+    },
+    "processing_time": 8.212503910064697
+  },
+  {
+    "success": true,
+    "index": 25,
+    "file_name": "25.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Pollo en salsa de curry con vegetales mixtos",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Pollo en salsa de curry con vegetales mixtos",
+      "calories": 360.0,
+      "proteins": 38.0,
+      "carbohydrates": 18.0,
+      "fats": 12.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 10.162114143371582
+  },
+  {
+    "success": true,
+    "index": 26,
+    "file_name": "26.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Dos huevos",
+      "serving_size": 120.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Dos huevos",
+      "calories": 171.6,
+      "proteins": 14.4,
+      "carbohydrates": 1.2,
+      "fats": 12.0,
+      "serving_size": 120.0
+    },
+    "processing_time": 9.983036279678345
+  },
+  {
+    "success": true,
+    "index": 27,
+    "file_name": "27.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Manzana",
+      "serving_size": 180.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Manzana",
+      "calories": 95.4,
+      "proteins": 0.5,
+      "carbohydrates": 25.1,
+      "fats": 0.3,
+      "serving_size": 180.0
+    },
+    "processing_time": 6.832849025726318
+  },
+  {
+    "success": true,
+    "index": 28,
+    "file_name": "28.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Pizza Margherita",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Pizza Margherita",
+      "calories": 840.0,
+      "proteins": 35.0,
+      "carbohydrates": 95.0,
+      "fats": 30.0,
+      "serving_size": 350.0
+    },
+    "processing_time": 5.9959938526153564
+  },
+  {
+    "success": true,
+    "index": 29,
+    "file_name": "29.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Tres mandarinas",
+      "serving_size": 360.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Tres mandarinas",
+      "calories": 180.0,
+      "proteins": 3.0,
+      "carbohydrates": 45.0,
+      "fats": 0.6,
+      "serving_size": 360.0
+    },
+    "processing_time": 6.470876216888428
+  },
+  {
+    "success": true,
+    "index": 30,
+    "file_name": "30.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Ensalada de pasta de colores con atún y tomate",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Ensalada de pasta de colores con atún y tomate",
+      "calories": 420.5,
+      "proteins": 28.7,
+      "carbohydrates": 45.3,
+      "fats": 9.8,
+      "serving_size": 350.0
+    },
+    "processing_time": 6.785283088684082
+  },
+  {
+    "success": true,
+    "index": 31,
+    "file_name": "31.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Dos rebanadas de pan",
+      "serving_size": 100.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Dos rebanadas de pan",
+      "calories": 265.0,
+      "proteins": 9.0,
+      "carbohydrates": 49.0,
+      "fats": 3.2,
+      "serving_size": 100.0
+    },
+    "processing_time": 8.82839822769165
+  },
+  {
+    "success": true,
+    "index": 32,
+    "file_name": "32.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Pollo asado con calabacín y cebolla",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Pollo asado con calabacín y cebolla",
+      "calories": 420.5,
+      "proteins": 38.2,
+      "carbohydrates": 12.7,
+      "fats": 22.3,
+      "serving_size": 350.0
+    },
+    "processing_time": 9.78017783164978
+  },
+  {
+    "success": true,
+    "index": 33,
+    "file_name": "33.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Macarrones con queso y jamón, acompañados de una ensalada de lechuga",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Macarrones con queso y jamón, acompañados de una ensalada de lechuga",
+      "calories": 520.0,
+      "proteins": 28.0,
+      "carbohydrates": 45.0,
+      "fats": 22.0,
+      "serving_size": 350.0
+    },
+    "processing_time": 9.481024980545044
+  },
+  {
+    "success": true,
+    "index": 34,
+    "file_name": "34.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Ensalada mixta con zanahoria, tomate cherry, queso fresco y hojas verdes",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Ensalada mixta con zanahoria, tomate cherry, queso fresco y hojas verdes",
+      "calories": 110.5,
+      "proteins": 7.8,
+      "carbohydrates": 11.2,
+      "fats": 4.5,
+      "serving_size": 250.0
+    },
+    "processing_time": 7.345439910888672
+  },
+  {
+    "success": true,
+    "index": 35,
+    "file_name": "35.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Dos trozos de queso",
+      "serving_size": 40.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Dos trozos de queso",
+      "calories": 144.0,
+      "proteins": 9.6,
+      "carbohydrates": 1.2,
+      "fats": 11.2,
+      "serving_size": 40.0
+    },
+    "processing_time": 5.9452807903289795
+  },
+  {
+    "success": true,
+    "index": 36,
+    "file_name": "36.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Arroz con plátano frito y huevo frito",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Arroz con plátano frito y huevo frito",
+      "calories": 620.0,
+      "proteins": 14.0,
+      "carbohydrates": 85.0,
+      "fats": 20.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 7.171858072280884
+  },
+  {
+    "success": true,
+    "index": 37,
+    "file_name": "37.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Carne seca deshilachada con queso fresco y huevos",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Carne seca deshilachada con queso fresco y huevos",
+      "calories": 735.0,
+      "proteins": 70.0,
+      "carbohydrates": 6.0,
+      "fats": 45.0,
+      "serving_size": 350.0
+    },
+    "processing_time": 6.627211093902588
+  },
+  {
+    "success": true,
+    "index": 38,
+    "file_name": "38.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Sopa cremosa con hongos y fideos crujientes",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Sopa cremosa con hongos y fideos crujientes",
+      "calories": 280.5,
+      "proteins": 9.8,
+      "carbohydrates": 32.4,
+      "fats": 12.7,
+      "serving_size": 350.0
+    },
+    "processing_time": 8.972902059555054
+  },
+  {
+    "success": true,
+    "index": 39,
+    "file_name": "39.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Carne frita con arroz y salsa criolla",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Carne frita con arroz y salsa criolla",
+      "calories": 680.0,
+      "proteins": 45.0,
+      "carbohydrates": 55.0,
+      "fats": 28.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 6.691861152648926
+  },
+  {
+    "success": true,
+    "index": 40,
+    "file_name": "40.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Plato combinado con carne, papas fritas, salchichas, tomate, cebolla, huevos de codorniz y pimiento verde.",
+      "serving_size": 550.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Plato combinado con carne, papas fritas, salchichas, tomate, cebolla, huevos de codorniz y pimiento verde.",
+      "calories": 920.5,
+      "proteins": 52.8,
+      "carbohydrates": 58.3,
+      "fats": 52.1,
+      "serving_size": 550.0
+    },
+    "processing_time": 8.214972972869873
+  },
+  {
+    "success": true,
+    "index": 41,
+    "file_name": "41.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Sopa o caldo de mote con papas y carne de cerdo",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Sopa o caldo de mote con papas y carne de cerdo",
+      "calories": 380.5,
+      "proteins": 28.7,
+      "carbohydrates": 32.4,
+      "fats": 14.2,
+      "serving_size": 350.0
+    },
+    "processing_time": 7.1415979862213135
+  },
+  {
+    "success": true,
+    "index": 42,
+    "file_name": "42.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Plato con carne deshilachada, papas, huevos y una porción de puré de papas o yuca",
+      "serving_size": 450.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Plato con carne deshilachada, papas, huevos y una porción de puré de papas o yuca",
+      "calories": 720.0,
+      "proteins": 48.0,
+      "carbohydrates": 55.0,
+      "fats": 30.0,
+      "serving_size": 450.0
+    },
+    "processing_time": 8.839555025100708
+  },
+  {
+    "success": true,
+    "index": 43,
+    "file_name": "43.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Pollo a la llajwa con arroz, papas y ensalada",
+      "serving_size": 550.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Pollo a la llajwa con arroz, papas y ensalada",
+      "calories": 620.5,
+      "proteins": 45.2,
+      "carbohydrates": 65.8,
+      "fats": 15.3,
+      "serving_size": 550.0
+    },
+    "processing_time": 9.626265048980713
+  },
+  {
+    "success": true,
+    "index": 44,
+    "file_name": "44.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Té helado con ciruelas",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Té helado con ciruelas",
+      "calories": 60.0,
+      "proteins": 0.3,
+      "carbohydrates": 15.0,
+      "fats": 0.0,
+      "serving_size": 250.0
+    },
+    "processing_time": 8.077857971191406
+  },
+  {
+    "success": true,
+    "index": 45,
+    "file_name": "45.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Sopa de fideos con carne y papas fritas",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Sopa de fideos con carne y papas fritas",
+      "calories": 480.0,
+      "proteins": 28.0,
+      "carbohydrates": 40.0,
+      "fats": 18.0,
+      "serving_size": 350.0
+    },
+    "processing_time": 6.0618979930877686
+  },
+  {
+    "success": true,
+    "index": 46,
+    "file_name": "46.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Api con maíz",
+      "serving_size": 250.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Api con maíz",
+      "calories": 210.0,
+      "proteins": 4.5,
+      "carbohydrates": 45.0,
+      "fats": 1.0,
+      "serving_size": 250.0
+    },
+    "processing_time": 6.7675440311431885
+  },
+  {
+    "success": true,
+    "index": 47,
+    "file_name": "47.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Carne de res estofada con arroz blanco y plátano frito",
+      "serving_size": 400.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Carne de res estofada con arroz blanco y plátano frito",
+      "calories": 620.0,
+      "proteins": 38.0,
+      "carbohydrates": 55.0,
+      "fats": 22.0,
+      "serving_size": 400.0
+    },
+    "processing_time": 7.493800401687622
+  },
+  {
+    "success": true,
+    "index": 48,
+    "file_name": "48.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Arroz con leche espolvoreado con canela",
+      "serving_size": 200.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Arroz con leche espolvoreado con canela",
+      "calories": 220.0,
+      "proteins": 5.0,
+      "carbohydrates": 38.0,
+      "fats": 4.5,
+      "serving_size": 200.0
+    },
+    "processing_time": 14.265100002288818
+  },
+  {
+    "success": true,
+    "index": 49,
+    "file_name": "49.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Sándwich con dos filetes de carne, huevo frito, rodaja de tomate, cebolla picada, papas fritas y arroz blanco.",
+      "serving_size": 450.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Sándwich con dos filetes de carne, huevo frito, rodaja de tomate, cebolla picada, papas fritas y arroz blanco.",
+      "calories": 720.0,
+      "proteins": 45.0,
+      "carbohydrates": 55.0,
+      "fats": 35.0,
+      "serving_size": 450.0
+    },
+    "processing_time": 7.9813151359558105
+  },
+  {
+    "success": true,
+    "index": 50,
+    "file_name": "50.jpg",
+    "serving_size": {
+      "success": true,
+      "description": "Cangrejos de río con mote",
+      "serving_size": 350.0
+    },
+    "nutrition": {
+      "success": true,
+      "description": "Cangrejos de río con mote",
+      "calories": 280.0,
+      "proteins": 38.5,
+      "carbohydrates": 25.0,
+      "fats": 2.5,
+      "serving_size": 350.0
+    },
+    "processing_time": 5.968605041503906
+  }
+]

@@ -8,11 +8,11 @@
       "description": "Vaso de cerveza clara en un vaso alto.",
       "calories": 165.0,
       "proteins": 1.65,
-      "carbohydrates": 14.85,
+      "carbohydrates": 13.2,
       "fats": 0.0,
       "serving_size": 330.0
     },
-    "processing_time": 3.964669942855835
+    "processing_time": 5.8796679973602295
   },
   {
     "success": true,
@@ -21,13 +21,13 @@
     "response": {
       "success": true,
       "description": "Pasta penne con salsa de tomate y albahaca",
-      "calories": 375.0,
-      "proteins": 15.0,
-      "carbohydrates": 75.0,
-      "fats": 5.0,
+      "calories": 325.0,
+      "proteins": 10.0,
+      "carbohydrates": 60.0,
+      "fats": 7.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.903752088546753
+    "processing_time": 3.0067760944366455
   },
   {
     "success": true,
@@ -37,12 +37,12 @@
       "success": true,
       "description": "El plato contiene un croissant integral con semillas, huevos revueltos, salmón ahumado y dos tomates cherry.",
       "calories": 450.0,
-      "proteins": 20.0,
-      "carbohydrates": 30.0,
-      "fats": 25.0,
+      "proteins": 25.0,
+      "carbohydrates": 40.0,
+      "fats": 20.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.9010770320892334
+    "processing_time": 2.6774890422821045
   },
   {
     "success": true,
@@ -50,14 +50,14 @@
     "file_name": "4.jpg",
     "response": {
       "success": true,
-      "description": "El plato contiene dos rebanadas de carne de cerdo envueltas en tocino y cubiertas con una salsa marrón, posiblemente gravy. Se acompaña con una porción de papas fritas.",
+      "description": "Dos rebanadas de lomo de cerdo envuelto en tocino con salsa y papas fritas.",
       "calories": 700.0,
-      "proteins": 35.0,
+      "proteins": 40.0,
       "carbohydrates": 50.0,
       "fats": 40.0,
       "serving_size": 350.0
     },
-    "processing_time": 3.3788301944732666
+    "processing_time": 3.000779151916504
   },
   {
     "success": true,
@@ -72,7 +72,7 @@
       "fats": 25.0,
       "serving_size": 400.0
     },
-    "processing_time": 3.529526710510254
+    "processing_time": 2.83866810798645
   },
   {
     "success": true,
@@ -87,7 +87,7 @@
       "fats": 25.0,
       "serving_size": 350.0
     },
-    "processing_time": 4.837644100189209
+    "processing_time": 3.385582208633423
   },
   {
     "success": true,
@@ -95,14 +95,14 @@
     "file_name": "7.jpg",
     "response": {
       "success": true,
-      "description": "La imagen muestra medio aguacate y una porción de salmón ahumado en un plato.",
+      "description": "La imagen muestra medio aguacate y salmón ahumado. El aguacate parece estar maduro y listo para consumir. El salmón está cortado en lonchas finas y presenta un color anaranjado rojizo característico del ahumado.",
       "calories": 280.0,
       "proteins": 20.0,
       "carbohydrates": 5.0,
       "fats": 22.0,
       "serving_size": 150.0
     },
-    "processing_time": 2.828946828842163
+    "processing_time": 3.246246814727783
   },
   {
     "success": true,
@@ -110,14 +110,14 @@
     "file_name": "8.jpg",
     "response": {
       "success": true,
-      "description": "Una taza pequeña de café expreso en un vaso de papel negro y blanco.",
+      "description": "Una taza pequeña de café expreso, probablemente de una máquina Nespresso, en un vaso de papel desechable.",
       "calories": 2.0,
       "proteins": 0.1,
       "carbohydrates": 0.1,
       "fats": 0.0,
-      "serving_size": 60.0
+      "serving_size": 40.0
     },
-    "processing_time": 2.5665948390960693
+    "processing_time": 2.9721972942352295
   },
   {
     "success": true,
@@ -127,12 +127,12 @@
       "success": true,
       "description": "Una taza de café con leche.",
       "calories": 100.0,
-      "proteins": 2.0,
+      "proteins": 3.0,
       "carbohydrates": 12.0,
       "fats": 4.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.3813319206237793
+    "processing_time": 2.348067045211792
   },
   {
     "success": true,
@@ -140,14 +140,14 @@
     "file_name": "10.jpg",
     "response": {
       "success": true,
-      "description": "Botella de agua con el logo de UA",
+      "description": "Una botella de agua transparente con letras azules.",
       "calories": 0.0,
       "proteins": 0.0,
       "carbohydrates": 0.0,
       "fats": 0.0,
       "serving_size": 500.0
     },
-    "processing_time": 2.9912209510803223
+    "processing_time": 2.286205291748047
   },
   {
     "success": true,
@@ -158,11 +158,11 @@
       "description": "Una copa de vino blanco.",
       "calories": 120.0,
       "proteins": 0.0,
-      "carbohydrates": 5.0,
+      "carbohydrates": 4.0,
       "fats": 0.0,
       "serving_size": 150.0
     },
-    "processing_time": 2.500816822052002
+    "processing_time": 2.3104190826416016
   },
   {
     "success": true,
@@ -177,7 +177,7 @@
       "fats": 18.0,
       "serving_size": 60.0
     },
-    "processing_time": 2.8920559883117676
+    "processing_time": 3.139293909072876
   },
   {
     "success": true,
@@ -185,14 +185,14 @@
     "file_name": "13.jpg",
     "response": {
       "success": true,
-      "description": "Un plátano maduro.",
+      "description": "Una banana.",
       "calories": 105.0,
       "proteins": 1.3,
       "carbohydrates": 27.0,
       "fats": 0.4,
       "serving_size": 120.0
     },
-    "processing_time": 2.0196852684020996
+    "processing_time": 2.230217933654785
   },
   {
     "success": true,
@@ -200,14 +200,14 @@
     "file_name": "14.jpg",
     "response": {
       "success": true,
-      "description": "El plato contiene un filete de carne a la plancha, una porción de polenta, una rodaja de berenjena asada, y dos rodajas de calabacín a la plancha. Se incluye también una rodaja de limón y unas hojas de lechuga.",
+      "description": "El plato contiene un filete de carne a la plancha, una porción de polenta, una rodaja de berenjena a la plancha, y dos rodajas de calabacín a la plancha. Se incluye también una rodaja de limón y unas hojas de lechuga.",
       "calories": 600.0,
       "proteins": 40.0,
       "carbohydrates": 60.0,
       "fats": 25.0,
       "serving_size": 450.0
     },
-    "processing_time": 3.310713052749634
+    "processing_time": 3.452183961868286
   },
   {
     "success": true,
@@ -216,13 +216,13 @@
     "response": {
       "success": true,
       "description": "Mezcla de frutos secos (almendras, castañas de cajú, maní)",
-      "calories": 170.0,
+      "calories": 165.0,
       "proteins": 6.0,
-      "carbohydrates": 6.0,
+      "carbohydrates": 7.0,
       "fats": 14.0,
       "serving_size": 30.0
     },
-    "processing_time": 2.848665952682495
+    "processing_time": 2.6258630752563477
   },
   {
     "success": true,
@@ -233,11 +233,11 @@
       "description": "Un vaso de té en un vaso facetado con un plato y una azucarera metálica detrás.",
       "calories": 10.0,
       "proteins": 0.2,
-      "carbohydrates": 2.4,
+      "carbohydrates": 2.0,
       "fats": 0.1,
       "serving_size": 200.0
     },
-    "processing_time": 3.3083417415618896
+    "processing_time": 3.5780389308929443
   },
   {
     "success": true,
@@ -248,11 +248,11 @@
       "description": "Una taza de café con leche y dos bombones de chocolate con forma de flor.",
       "calories": 150.0,
       "proteins": 2.0,
-      "carbohydrates": 25.0,
-      "fats": 5.0,
+      "carbohydrates": 20.0,
+      "fats": 7.0,
       "serving_size": 150.0
     },
-    "processing_time": 3.8341331481933594
+    "processing_time": 2.7998850345611572
   },
   {
     "success": true,
@@ -267,7 +267,7 @@
       "fats": 22.0,
       "serving_size": 175.0
     },
-    "processing_time": 2.689349889755249
+    "processing_time": 2.8391010761260986
   },
   {
     "success": true,
@@ -275,14 +275,14 @@
     "file_name": "19.jpg",
     "response": {
       "success": true,
-      "description": "Barra de chocolate oscuro",
+      "description": "Barra de chocolate oscuro con cuatro secciones.",
       "calories": 140.0,
       "proteins": 2.0,
       "carbohydrates": 14.0,
       "fats": 9.0,
       "serving_size": 28.0
     },
-    "processing_time": 2.567525863647461
+    "processing_time": 2.455749988555908
   },
   {
     "success": true,
@@ -290,14 +290,14 @@
     "file_name": "20.jpg",
     "response": {
       "success": true,
-      "description": "Vaso de plástico transparente con una bebida fría, probablemente agua o limonada, con hielo.",
+      "description": "Vaso transparente con una bebida fría, probablemente agua o alguna bebida transparente, con hielo.",
       "calories": 0.0,
       "proteins": 0.0,
       "carbohydrates": 0.0,
       "fats": 0.0,
       "serving_size": 473.0
     },
-    "processing_time": 3.1229240894317627
+    "processing_time": 2.8049259185791016
   },
   {
     "success": true,
@@ -305,14 +305,14 @@
     "file_name": "21.jpg",
     "response": {
       "success": true,
-      "description": "Vaso de agua",
+      "description": "Un vaso de agua.",
       "calories": 0.0,
       "proteins": 0.0,
       "carbohydrates": 0.0,
       "fats": 0.0,
       "serving_size": 200.0
     },
-    "processing_time": 2.900968074798584
+    "processing_time": 3.5559918880462646
   },
   {
     "success": true,
@@ -327,7 +327,7 @@
       "fats": 8.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.818927049636841
+    "processing_time": 2.5208327770233154
   },
   {
     "success": true,
@@ -335,14 +335,14 @@
     "file_name": "23.jpg",
     "response": {
       "success": true,
-      "description": "El plato contiene una mezcla de frutos secos, pretzels y un dátil. Los frutos secos parecen ser almendras, anacardos, maní y posiblemente otro tipo de nuez. Los pretzels son delgados y parecen salados. El dátil es de color oscuro.",
-      "calories": 380.0,
-      "proteins": 10.0,
-      "carbohydrates": 30.0,
-      "fats": 25.0,
-      "serving_size": 75.0
+      "description": "El plato contiene una mezcla de frutos secos, pretzels y un dátil. Los frutos secos parecen ser almendras, nueces de cajú y maní. Los pretzels son del tipo delgado y parecen salados. El dátil es de color oscuro, posiblemente Medjool.",
+      "calories": 450.0,
+      "proteins": 12.0,
+      "carbohydrates": 50.0,
+      "fats": 28.0,
+      "serving_size": 100.0
     },
-    "processing_time": 4.152924299240112
+    "processing_time": 3.7773313522338867
   },
   {
     "success": true,
@@ -351,13 +351,13 @@
     "response": {
       "success": true,
       "description": "Una copa de vino tinto.",
-      "calories": 125.0,
-      "proteins": 0.5,
+      "calories": 120.0,
+      "proteins": 0.2,
       "carbohydrates": 4.0,
       "fats": 0.0,
       "serving_size": 150.0
     },
-    "processing_time": 3.0996899604797363
+    "processing_time": 2.683856248855591
   },
   {
     "success": true,
@@ -365,14 +365,14 @@
     "file_name": "25.jpg",
     "response": {
       "success": true,
-      "description": "El plato contiene pollo marinado en cúrcuma y un salteado de verduras. El pollo parece estar cortado en trozos irregulares y cocinado. Las verduras en el salteado incluyen zucchini, zanahorias, judías verdes y lo que parecen ser vainas de soya o habas. Se observa una salsa ligera, posiblemente a base de leche de coco o crema, cubriendo las verduras.",
+      "description": "El plato contiene pollo marinado en cúrcuma y un salteado de verduras. El salteado incluye zucchini, zanahorias, vainitas y lo que parecen ser rodajas de cebolla. Se observa una salsa cremosa y ligera que cubre las verduras. No se puede determinar con precisión si hay otros ingredientes o condimentos en la salsa o en la marinada del pollo.",
       "calories": 500.0,
       "proteins": 40.0,
       "carbohydrates": 40.0,
-      "fats": 25.0,
+      "fats": 20.0,
       "serving_size": 350.0
     },
-    "processing_time": 5.304328918457031
+    "processing_time": 4.913167953491211
   },
   {
     "success": true,
@@ -380,14 +380,14 @@
     "file_name": "26.jpg",
     "response": {
       "success": true,
-      "description": "Dos huevos de gallina con sellos rojos.",
+      "description": "Dos huevos de gallina con sellos de categoría.",
       "calories": 160.0,
       "proteins": 13.0,
       "carbohydrates": 1.0,
       "fats": 11.0,
       "serving_size": 120.0
     },
-    "processing_time": 2.5549488067626953
+    "processing_time": 2.7805840969085693
   },
   {
     "success": true,
@@ -395,14 +395,14 @@
     "file_name": "27.jpg",
     "response": {
       "success": true,
-      "description": "Una manzana roja mediana.",
-      "calories": 95.0,
+      "description": "Una manzana mediana, posiblemente de la variedad Red Delicious o similar, con un tallo corto y delgado aún adherido.",
+      "calories": 90.0,
       "proteins": 0.5,
-      "carbohydrates": 25.0,
+      "carbohydrates": 23.0,
       "fats": 0.3,
       "serving_size": 180.0
     },
-    "processing_time": 2.514082193374634
+    "processing_time": 2.7015280723571777
   },
   {
     "success": true,
@@ -410,14 +410,14 @@
     "file_name": "28.jpg",
     "response": {
       "success": true,
-      "description": "Pizza Margherita con albahaca fresca.",
+      "description": "Pizza margarita con mozzarella fresca y hojas de albahaca.",
       "calories": 700.0,
-      "proteins": 30.0,
-      "carbohydrates": 90.0,
-      "fats": 25.0,
+      "proteins": 35.0,
+      "carbohydrates": 80.0,
+      "fats": 28.0,
       "serving_size": 350.0
     },
-    "processing_time": 2.53776216506958
+    "processing_time": 2.5377297401428223
   },
   {
     "success": true,
@@ -426,13 +426,13 @@
     "response": {
       "success": true,
       "description": "Tres mandarinas en un plato.",
-      "calories": 180.0,
+      "calories": 165.0,
       "proteins": 2.1,
-      "carbohydrates": 45.0,
-      "fats": 0.9,
+      "carbohydrates": 40.2,
+      "fats": 0.6,
       "serving_size": 300.0
     },
-    "processing_time": 3.0119149684906006
+    "processing_time": 2.823103189468384
   },
   {
     "success": true,
@@ -441,13 +441,13 @@
     "response": {
       "success": true,
       "description": "Ensalada de pasta de colores con atún y tomate, aderezada con hojas de albahaca fresca.",
-      "calories": 380.0,
+      "calories": 310.0,
       "proteins": 20.0,
-      "carbohydrates": 45.0,
-      "fats": 15.0,
+      "carbohydrates": 35.0,
+      "fats": 12.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.750446081161499
+    "processing_time": 3.3169119358062744
   },
   {
     "success": true,
@@ -458,11 +458,11 @@
       "description": "Dos rebanadas de pan, posiblemente integral o de masa madre, ligeramente tostadas.",
       "calories": 250.0,
       "proteins": 8.0,
-      "carbohydrates": 48.0,
-      "fats": 4.0,
+      "carbohydrates": 50.0,
+      "fats": 2.0,
       "serving_size": 100.0
     },
-    "processing_time": 3.001708984375
+    "processing_time": 2.6957590579986572
   },
   {
     "success": true,
@@ -470,14 +470,14 @@
     "file_name": "32.jpg",
     "response": {
       "success": true,
-      "description": "Pieza de pollo asado con rodajas de calabacín y hinojo.",
+      "description": "Muslo de pollo asado con calabacín y hinojo salteados.",
       "calories": 400.0,
       "proteins": 35.0,
       "carbohydrates": 20.0,
       "fats": 20.0,
       "serving_size": 350.0
     },
-    "processing_time": 2.933397054672241
+    "processing_time": 3.338484048843384
   },
   {
     "success": true,
@@ -486,13 +486,13 @@
     "response": {
       "success": true,
       "description": "Macarrones con queso y jamón, acompañados de una ensalada de lechuga.",
-      "calories": 570.0,
-      "proteins": 25.0,
-      "carbohydrates": 60.0,
+      "calories": 610.0,
+      "proteins": 28.0,
+      "carbohydrates": 70.0,
       "fats": 28.0,
       "serving_size": 350.0
     },
-    "processing_time": 2.5240886211395264
+    "processing_time": 2.608689069747925
   },
   {
     "success": true,
@@ -507,7 +507,7 @@
       "fats": 5.0,
       "serving_size": 200.0
     },
-    "processing_time": 3.0971620082855225
+    "processing_time": 2.7705187797546387
   },
   {
     "success": true,
@@ -522,7 +522,7 @@
       "fats": 10.0,
       "serving_size": 40.0
     },
-    "processing_time": 2.5034639835357666
+    "processing_time": 2.3242781162261963
   },
   {
     "success": true,
@@ -530,14 +530,14 @@
     "file_name": "36.jpg",
     "response": {
       "success": true,
-      "description": "Arroz con huevo frito y dos plátanos fritos.",
-      "calories": 700.0,
+      "description": "Arroz con plátano frito y huevo frito.",
+      "calories": 670.0,
       "proteins": 18.0,
-      "carbohydrates": 100.0,
-      "fats": 25.0,
-      "serving_size": 450.0
+      "carbohydrates": 90.0,
+      "fats": 28.0,
+      "serving_size": 400.0
     },
-    "processing_time": 2.1958131790161133
+    "processing_time": 2.109761953353882
   },
   {
     "success": true,
@@ -545,14 +545,14 @@
     "file_name": "37.jpg",
     "response": {
       "success": true,
-      "description": "Carne seca deshilachada (charque) con dos huevos y queso fresco",
-      "calories": 550.0,
+      "description": "Plato con charque desmenuzado, queso fresco y huevos.",
+      "calories": 585.0,
       "proteins": 40.0,
       "carbohydrates": 5.0,
-      "fats": 40.0,
+      "fats": 45.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.410784959793091
+    "processing_time": 2.2574713230133057
   },
   {
     "success": true,
@@ -560,14 +560,14 @@
     "file_name": "38.jpg",
     "response": {
       "success": true,
-      "description": "Sopa crema con hongos, papas y fideos. Se observa un caldo cremoso de color claro con trozos de hongos, posiblemente champiñones, y algunas láminas de papa. También hay fideos delgados, posiblemente fideos de huevo, y lo que parece ser perejil picado espolvoreado por encima. No se observan otros ingredientes como carne, verduras o especias adicionales.",
-      "calories": 250.0,
-      "proteins": 10.0,
-      "carbohydrates": 30.0,
-      "fats": 8.0,
-      "serving_size": 350.0
+      "description": "Sopa crema, posiblemente de champiñones, con fideos o papas fritas delgadas como guarnición. Se observan trozos de champiñones y posiblemente otros vegetales como zanahoria o apio picados finamente en la sopa.",
+      "calories": 210.0,
+      "proteins": 7.0,
+      "carbohydrates": 25.0,
+      "fats": 9.0,
+      "serving_size": 300.0
     },
-    "processing_time": 3.7124979496002197
+    "processing_time": 3.01454496383667
   },
   {
     "success": true,
@@ -582,7 +582,7 @@
       "fats": 35.0,
       "serving_size": 400.0
     },
-    "processing_time": 3.049014091491699
+    "processing_time": 3.0806989669799805
   },
   {
     "success": true,
@@ -590,14 +590,14 @@
     "file_name": "40.jpg",
     "response": {
       "success": true,
-      "description": "El plato consiste en carne de res cortada en cubos, papas fritas, rodajas de tomate, queso fresco, aros de cebolla y salchichas. Se observan también tiras de pimiento verde.",
-      "calories": 700.0,
+      "description": "El plato consiste en carne de res cortada en cubos, papas fritas, rodajas de tomate, cebolla blanca en aros, salchichas en rodajas y queso fresco en bolas. Se observan también tiras de pimiento verde. La carne parece estar salteada o frita, y las papas fritas parecen cortadas de manera rústica.",
+      "calories": 970.0,
       "proteins": 50.0,
-      "carbohydrates": 50.0,
-      "fats": 35.0,
-      "serving_size": 450.0
+      "carbohydrates": 70.0,
+      "fats": 60.0,
+      "serving_size": 550.0
     },
-    "processing_time": 3.48374605178833
+    "processing_time": 3.8246147632598877
   },
   {
     "success": true,
@@ -605,14 +605,14 @@
     "file_name": "41.jpg",
     "response": {
       "success": true,
-      "description": "El plato contiene mote de maíz, papas cocidas y carne de cerdo desmenuzada en un caldo ligero de color amarillo-anaranjado, posiblemente con hierbas o especias.",
-      "calories": 450.0,
-      "proteins": 30.0,
+      "description": "Sopa o guiso de mote de maíz, con papas y carne, posiblemente pollo o cerdo desmenuzado. El caldo parece tener un color amarillo anaranjado, sugiriendo el uso de ají amarillo u otro condimento similar.",
+      "calories": 400.0,
+      "proteins": 25.0,
       "carbohydrates": 60.0,
-      "fats": 15.0,
-      "serving_size": 400.0
+      "fats": 10.0,
+      "serving_size": 350.0
     },
-    "processing_time": 3.344409227371216
+    "processing_time": 3.0197412967681885
   },
   {
     "success": true,
@@ -620,14 +620,14 @@
     "file_name": "42.jpg",
     "response": {
       "success": true,
-      "description": "El plato consiste en una porción de carne mechada deshilachada,  cubierta con una porción de queso rallado, dos huevos duros cortados por la mitad y dos papas cocidas. La base parece ser fideos tipo tallarín.",
+      "description": "El plato consiste en una porción de majado de plátano verde, dos huevos duros, una porción de carne desmechada o deshilachada (posiblemente de res o cerdo) que cubre la mayor parte del plato, y una porción de queso fresco desmenuzado encima de la carne. Se observa una base de fideo o algún tipo de pasta debajo de la carne.",
       "calories": 700.0,
-      "proteins": 50.0,
-      "carbohydrates": 50.0,
+      "proteins": 45.0,
+      "carbohydrates": 60.0,
       "fats": 35.0,
       "serving_size": 450.0
     },
-    "processing_time": 3.1021060943603516
+    "processing_time": 3.908050298690796
   },
   {
     "success": true,
@@ -642,7 +642,7 @@
       "fats": 20.0,
       "serving_size": 450.0
     },
-    "processing_time": 4.102149963378906
+    "processing_time": 3.9709959030151367
   },
   {
     "success": true,
@@ -657,7 +657,7 @@
       "fats": 1.0,
       "serving_size": 250.0
     },
-    "processing_time": 2.625072956085205
+    "processing_time": 2.5661697387695312
   },
   {
     "success": true,
@@ -665,14 +665,14 @@
     "file_name": "45.jpg",
     "response": {
       "success": true,
-      "description": "Sopa o crema con papas, carne y papas fritas. La base parece ser una crema blanca, posiblemente de leche, con trozos de carne y papas. Se ha añadido una porción de papas fritas como guarnición.",
-      "calories": 500.0,
-      "proteins": 20.0,
-      "carbohydrates": 60.0,
-      "fats": 25.0,
+      "description": "Soja con papa en salsa blanca con fritura de papa",
+      "calories": 420.0,
+      "proteins": 21.0,
+      "carbohydrates": 52.5,
+      "fats": 17.5,
       "serving_size": 350.0
     },
-    "processing_time": 2.8352160453796387
+    "processing_time": 2.389551877975464
   },
   {
     "success": true,
@@ -687,7 +687,7 @@
       "fats": 0.5,
       "serving_size": 250.0
     },
-    "processing_time": 2.262415885925293
+    "processing_time": 2.394052267074585
   },
   {
     "success": true,
@@ -695,14 +695,14 @@
     "file_name": "47.jpg",
     "response": {
       "success": true,
-      "description": "El plato consiste en carne de res (posiblemente lomo o similar) cocida en salsa oscura, servida con arroz blanco y plátano frito.",
+      "description": "El plato contiene carne de res, posiblemente lomo o similar, cocida en salsa oscura, servida con arroz blanco y plátano frito.",
       "calories": 650.0,
       "proteins": 40.0,
       "carbohydrates": 60.0,
       "fats": 30.0,
       "serving_size": 400.0
     },
-    "processing_time": 2.612903118133545
+    "processing_time": 2.439210891723633
   },
   {
     "success": true,
@@ -717,7 +717,7 @@
       "fats": 5.0,
       "serving_size": 200.0
     },
-    "processing_time": 5.8853919506073
+    "processing_time": 5.918424844741821
   },
   {
     "success": true,
@@ -725,14 +725,14 @@
     "file_name": "49.jpg",
     "response": {
       "success": true,
-      "description": "Sándwich de carne de res con huevo frito, tomate, cebolla, papas fritas y una rodaja de choclo (maíz tierno) sobre pan.  El sándwich parece contener también una porción de arroz blanco entre la carne y el choclo.",
-      "calories": 650.0,
+      "description": "Sándwich con dos filetes de carne, rodajas de palta, arroz, tomate, cebolla,  y huevo frito en pan redondo.",
+      "calories": 670.0,
       "proteins": 35.0,
       "carbohydrates": 60.0,
-      "fats": 30.0,
+      "fats": 32.0,
       "serving_size": 350.0
     },
-    "processing_time": 6.0877299308776855
+    "processing_time": 2.7988429069519043
   },
   {
     "success": true,
@@ -747,6 +747,6 @@
       "fats": 5.0,
       "serving_size": 250.0
     },
-    "processing_time": 3.6422979831695557
+    "processing_time": 2.5653302669525146
   }
 ]

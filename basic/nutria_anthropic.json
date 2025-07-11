@@ -5,14 +5,14 @@
     "file_name": "1.jpg",
     "response": {
       "success": true,
-      "description": "Vaso de cerveza rubia con espuma blanca",
+      "description": "Cerveza rubia en vaso alto con espuma",
       "calories": 145.0,
       "proteins": 1.1,
       "carbohydrates": 11.2,
       "fats": 0.0,
       "serving_size": 330.0
     },
-    "processing_time": 7.0966620445251465
+    "processing_time": 3.2893688678741455
   },
   {
     "success": true,
@@ -20,14 +20,14 @@
     "file_name": "2.jpg",
     "response": {
       "success": true,
-      "description": "Pasta penne con salsa de tomate, trozos de tocino y hierbas verdes",
+      "description": "Pasta penne con salsa de tomate, tocino y hierbas frescas",
       "calories": 420.0,
       "proteins": 18.5,
       "carbohydrates": 58.0,
       "fats": 12.8,
       "serving_size": 280.0
     },
-    "processing_time": 4.174713134765625
+    "processing_time": 5.3450751304626465
   },
   {
     "success": true,
@@ -36,13 +36,13 @@
     "response": {
       "success": true,
       "description": "Pollo empanizado con semillas de sésamo, huevos revueltos, salmón ahumado y tomates cherry",
-      "calories": 542.0,
+      "calories": 520.0,
       "proteins": 38.5,
       "carbohydrates": 8.2,
-      "fats": 39.8,
-      "serving_size": 285.0
+      "fats": 36.8,
+      "serving_size": 280.0
     },
-    "processing_time": 5.529371976852417
+    "processing_time": 3.3818719387054443
   },
   {
     "success": true,
@@ -50,14 +50,14 @@
     "file_name": "4.jpg",
     "response": {
       "success": true,
-      "description": "Carne asada con salsa gravy, tocino frito y papas fritas doradas",
-      "calories": 742.0,
-      "proteins": 28.5,
-      "carbohydrates": 35.2,
-      "fats": 52.8,
-      "serving_size": 285.0
+      "description": "Carne asada con salsa gravy y papas fritas doradas",
+      "calories": 720.0,
+      "proteins": 35.0,
+      "carbohydrates": 45.0,
+      "fats": 42.0,
+      "serving_size": 280.0
     },
-    "processing_time": 4.681645154953003
+    "processing_time": 3.5392558574676514
   },
   {
     "success": true,
@@ -65,14 +65,14 @@
     "file_name": "5.jpg",
     "response": {
       "success": true,
-      "description": "Arroz blanco con guiso de carne y verduras, acompañado de ensalada de repollo morado",
+      "description": "Arroz blanco con guiso de carne y verduras, acompañado de repollo morado rallado",
       "calories": 420.0,
       "proteins": 18.5,
       "carbohydrates": 65.0,
       "fats": 8.5,
       "serving_size": 280.0
     },
-    "processing_time": 4.276642799377441
+    "processing_time": 4.060589075088501
   },
   {
     "success": true,
@@ -80,14 +80,14 @@
     "file_name": "6.jpg",
     "response": {
       "success": true,
-      "description": "Bistec de res a la plancha con salsa oscura, acompañado de verduras salteadas (brócoli, cebolla) y decoración de zanahoria tallada en forma de flor",
+      "description": "Bistec de res a la plancha con salsa oscura, acompañado de verduras salteadas (brócoli, coliflor, zanahoria) y decoración de zanahoria tallada en forma de flor",
       "calories": 420.0,
       "proteins": 35.0,
-      "carbohydrates": 8.0,
+      "carbohydrates": 12.0,
       "fats": 26.0,
       "serving_size": 280.0
     },
-    "processing_time": 4.138652801513672
+    "processing_time": 3.873382091522217
   },
   {
     "success": true,
@@ -98,11 +98,11 @@
       "description": "Media palta (aguacate) fresca y lonchas de salmón ahumado",
       "calories": 245.0,
       "proteins": 12.5,
-      "carbohydrates": 4.2,
-      "fats": 21.8,
+      "carbohydrates": 6.0,
+      "fats": 20.5,
       "serving_size": 120.0
     },
-    "processing_time": 3.627819061279297
+    "processing_time": 3.471522808074951
   },
   {
     "success": true,
@@ -110,14 +110,14 @@
     "file_name": "8.jpg",
     "response": {
       "success": true,
-      "description": "Café negro en vaso desechable, restos de café consumido",
-      "calories": 2.0,
+      "description": "Café negro en vaso desechable con residuos de café en el fondo",
+      "calories": 4.0,
       "proteins": 0.3,
       "carbohydrates": 0.0,
       "fats": 0.0,
-      "serving_size": 30.0
+      "serving_size": 200.0
     },
-    "processing_time": 3.3201100826263428
+    "processing_time": 3.140077829360962
   },
   {
     "success": true,
@@ -125,14 +125,14 @@
     "file_name": "9.jpg",
     "response": {
       "success": true,
-      "description": "Taza de café con leche o té con leche, bebida caliente de color beige claro con pequeñas partículas oscuras en la superficie",
+      "description": "Café con leche o té con leche servido en taza roja",
       "calories": 42.0,
       "proteins": 2.1,
       "carbohydrates": 4.8,
       "fats": 1.6,
       "serving_size": 200.0
     },
-    "processing_time": 4.855448961257935
+    "processing_time": 6.675102949142456
   },
   {
     "success": true,
@@ -140,14 +140,14 @@
     "file_name": "10.jpg",
     "response": {
       "success": true,
-      "description": "Botella de agua mineral transparente con tapa azul",
+      "description": "Botella de agua mineral o agua purificada",
       "calories": 0.0,
       "proteins": 0.0,
       "carbohydrates": 0.0,
       "fats": 0.0,
       "serving_size": 0.0
     },
-    "processing_time": 8.238867282867432
+    "processing_time": 9.742478132247925
   },
   {
     "success": true,
@@ -162,7 +162,7 @@
       "fats": 0.0,
       "serving_size": 150.0
     },
-    "processing_time": 9.857176065444946
+    "processing_time": 10.048780918121338
   },
   {
     "success": true,
@@ -170,14 +170,14 @@
     "file_name": "12.jpg",
     "response": {
       "success": true,
-      "description": "Rodajas de salame o chorizo seco cortado en rebanadas medianas",
-      "calories": 198.0,
-      "proteins": 11.2,
-      "carbohydrates": 1.4,
-      "fats": 16.7,
-      "serving_size": 45.0
+      "description": "Rodajas de salame o embutido curado cortado en rebanadas medianas",
+      "calories": 312.0,
+      "proteins": 18.6,
+      "carbohydrates": 1.2,
+      "fats": 25.8,
+      "serving_size": 60.0
     },
-    "processing_time": 11.329129219055176
+    "processing_time": 10.556059122085571
   },
   {
     "success": true,
@@ -185,14 +185,14 @@
     "file_name": "13.jpg",
     "response": {
       "success": true,
-      "description": "Plátano maduro entero",
+      "description": "Plátano maduro entero sin pelar",
       "calories": 107.0,
       "proteins": 1.3,
       "carbohydrates": 27.0,
       "fats": 0.4,
       "serving_size": 120.0
     },
-    "processing_time": 9.242846250534058
+    "processing_time": 9.602065086364746
   },
   {
     "success": true,
@@ -207,7 +207,7 @@
       "fats": 28.5,
       "serving_size": 380.0
     },
-    "processing_time": 9.651673793792725
+    "processing_time": 11.198429822921753
   },
   {
     "success": true,
@@ -222,7 +222,7 @@
       "fats": 22.1,
       "serving_size": 45.0
     },
-    "processing_time": 9.85013198852539
+    "processing_time": 8.97103214263916
   },
   {
     "success": true,
@@ -230,14 +230,14 @@
     "file_name": "16.jpg",
     "response": {
       "success": true,
-      "description": "Té negro servido en vaso de vidrio con azúcar",
-      "calories": 32.0,
+      "description": "Té negro servido en vaso de vidrio, típico té boliviano",
+      "calories": 2.0,
       "proteins": 0.1,
-      "carbohydrates": 8.0,
+      "carbohydrates": 0.3,
       "fats": 0.0,
       "serving_size": 200.0
     },
-    "processing_time": 11.266189098358154
+    "processing_time": 11.241904258728027
   },
   {
     "success": true,
@@ -245,14 +245,14 @@
     "file_name": "17.jpg",
     "response": {
       "success": true,
-      "description": "Taza de café con leche y dos chocolates con forma de flor",
-      "calories": 245.0,
+      "description": "Taza de café con leche acompañada de dos bombones de chocolate con forma de flor",
+      "calories": 195.0,
       "proteins": 8.5,
-      "carbohydrates": 28.0,
-      "fats": 11.5,
+      "carbohydrates": 18.0,
+      "fats": 10.5,
       "serving_size": 280.0
     },
-    "processing_time": 9.10448169708252
+    "processing_time": 10.04713487625122
   },
   {
     "success": true,
@@ -267,7 +267,7 @@
       "fats": 40.5,
       "serving_size": 180.0
     },
-    "processing_time": 10.47905683517456
+    "processing_time": 8.479830980300903
   },
   {
     "success": true,
@@ -277,12 +277,12 @@
       "success": true,
       "description": "Cuatro cuadros de chocolate con leche",
       "calories": 107.0,
-      "proteins": 2.1,
+      "proteins": 1.6,
       "carbohydrates": 11.8,
       "fats": 6.2,
       "serving_size": 20.0
     },
-    "processing_time": 9.467159986495972
+    "processing_time": 9.45254397392273
   },
   {
     "success": true,
@@ -290,14 +290,14 @@
     "file_name": "20.jpg",
     "response": {
       "success": true,
-      "description": "Vaso de agua con hielo",
+      "description": "Vaso de agua natural con hielo",
       "calories": 0.0,
       "proteins": 0.0,
       "carbohydrates": 0.0,
       "fats": 0.0,
       "serving_size": 250.0
     },
-    "processing_time": 10.349432229995728
+    "processing_time": 10.110663175582886
   },
   {
     "success": true,
@@ -312,7 +312,7 @@
       "fats": 0.0,
       "serving_size": 250.0
     },
-    "processing_time": 10.502682209014893
+    "processing_time": 9.953201055526733
   },
   {
     "success": true,
@@ -320,14 +320,14 @@
     "file_name": "22.jpg",
     "response": {
       "success": true,
-      "description": "Chocolate caliente o api preparado con leche y cacao en polvo, servido en taza de cerámica",
+      "description": "Chocolate caliente boliviano preparado con leche y cacao en polvo, servido en taza",
       "calories": 180.0,
       "proteins": 8.0,
-      "carbohydrates": 24.0,
-      "fats": 6.0,
+      "carbohydrates": 22.0,
+      "fats": 7.0,
       "serving_size": 200.0
     },
-    "processing_time": 9.257732152938843
+    "processing_time": 12.076748609542847
   },
   {
     "success": true,
@@ -335,14 +335,14 @@
     "file_name": "23.jpg",
     "response": {
       "success": true,
-      "description": "Mix de frutos secos y snacks que incluye nueces de la india (cashews), almendras, dátiles, arándanos secos, palitos salados tipo pretzel y una pequeña porción de salsa amarilla",
+      "description": "Mix de frutos secos y snacks que incluye nueces de la india (cashews), almendras, dátiles, arándanos secos, palitos salados tipo pretzel y una pequeña porción de salsa amarilla (posiblemente mostaza o salsa de ají amarillo)",
       "calories": 445.0,
       "proteins": 12.5,
       "carbohydrates": 35.0,
-      "fats": 30.0,
+      "fats": 28.5,
       "serving_size": 85.0
     },
-    "processing_time": 12.120487928390503
+    "processing_time": 9.815680027008057
   },
   {
     "success": true,
@@ -357,7 +357,7 @@
       "fats": 0.0,
       "serving_size": 150.0
     },
-    "processing_time": 8.70543909072876
+    "processing_time": 8.158204793930054
   },
   {
     "success": true,
@@ -366,13 +366,13 @@
     "response": {
       "success": true,
       "description": "Pollo al curry con verduras salteadas (calabacín, zanahoria, cebolla y pimientos)",
-      "calories": 425.0,
-      "proteins": 35.0,
-      "carbohydrates": 18.0,
-      "fats": 24.0,
+      "calories": 245.0,
+      "proteins": 28.5,
+      "carbohydrates": 12.0,
+      "fats": 9.5,
       "serving_size": 280.0
     },
-    "processing_time": 11.246779918670654
+    "processing_time": 12.14127492904663
   },
   {
     "success": true,
@@ -387,7 +387,7 @@
       "fats": 10.6,
       "serving_size": 120.0
     },
-    "processing_time": 8.357290983200073
+    "processing_time": 7.6774818897247314
   },
   {
     "success": true,
@@ -395,14 +395,14 @@
     "file_name": "27.jpg",
     "response": {
       "success": true,
-      "description": "Una manzana fresca de tamaño mediano con coloración rojiza y amarillenta",
+      "description": "Manzana fresca de tamaño mediano con piel rojiza y amarillenta",
       "calories": 94.0,
       "proteins": 0.5,
       "carbohydrates": 25.0,
       "fats": 0.3,
       "serving_size": 180.0
     },
-    "processing_time": 10.975886821746826
+    "processing_time": 10.659785985946655
   },
   {
     "success": true,
@@ -417,7 +417,7 @@
       "fats": 32.0,
       "serving_size": 280.0
     },
-    "processing_time": 8.937664985656738
+    "processing_time": 10.088230848312378
   },
   {
     "success": true,
@@ -425,14 +425,14 @@
     "file_name": "29.jpg",
     "response": {
       "success": true,
-      "description": "Tres naranjas enteras frescas servidas en un plato",
+      "description": "Tres naranjas frescas enteras con cáscara",
       "calories": 212.0,
       "proteins": 4.3,
       "carbohydrates": 53.2,
       "fats": 0.5,
       "serving_size": 450.0
     },
-    "processing_time": 12.212414026260376
+    "processing_time": 11.24680495262146
   },
   {
     "success": true,
@@ -440,14 +440,14 @@
     "file_name": "30.jpg",
     "response": {
       "success": true,
-      "description": "Ensalada de pasta fusilli tricolor con aceitunas negras, tomates cherry, hierbas frescas (posiblemente perejil o cilantro) y aderezo",
+      "description": "Ensalada de pasta fusilli tricolor con tomates cherry, aceitunas negras, hierbas frescas (posiblemente perejil o cilantro) y aderezo",
       "calories": 420.0,
       "proteins": 12.5,
       "carbohydrates": 58.0,
       "fats": 16.0,
       "serving_size": 280.0
     },
-    "processing_time": 7.93943190574646
+    "processing_time": 10.048544883728027
   },
   {
     "success": true,
@@ -455,14 +455,14 @@
     "file_name": "31.jpg",
     "response": {
       "success": true,
-      "description": "Dos rebanadas de pan artesanal, una de pan integral oscuro y otra de pan blanco con alvéolos grandes",
+      "description": "Dos rebanadas de pan artesanal con corteza dorada y miga alveolada de textura abierta",
       "calories": 210.0,
       "proteins": 7.2,
-      "carbohydrates": 40.5,
-      "fats": 3.8,
+      "carbohydrates": 42.0,
+      "fats": 2.4,
       "serving_size": 80.0
     },
-    "processing_time": 10.417721033096313
+    "processing_time": 9.654761791229248
   },
   {
     "success": true,
@@ -470,14 +470,14 @@
     "file_name": "32.jpg",
     "response": {
       "success": true,
-      "description": "Pollo asado con verduras salteadas (calabacín en rodajas y cebolla blanca)",
+      "description": "Pollo asado con verduras salteadas (calabacín en rodajas y cebolla)",
       "calories": 420.0,
       "proteins": 35.0,
       "carbohydrates": 12.0,
       "fats": 26.0,
       "serving_size": 280.0
     },
-    "processing_time": 10.23375415802002
+    "processing_time": 8.215813875198364
   },
   {
     "success": true,
@@ -489,10 +489,10 @@
       "calories": 425.0,
       "proteins": 18.5,
       "carbohydrates": 52.0,
-      "fats": 15.2,
+      "fats": 15.0,
       "serving_size": 280.0
     },
-    "processing_time": 8.853173017501831
+    "processing_time": 10.961246252059937
   },
   {
     "success": true,
@@ -500,14 +500,14 @@
     "file_name": "34.jpg",
     "response": {
       "success": true,
-      "description": "Ensalada mixta con hojas verdes (lechuga y espinaca), zanahoria rallada, tomate cherry y cebolla morada",
+      "description": "Ensalada mixta con hojas verdes (lechuga y espinaca), zanahoria rallada, tomates cherry y cebolla morada",
       "calories": 45.0,
-      "proteins": 2.8,
-      "carbohydrates": 8.5,
-      "fats": 0.8,
+      "proteins": 2.5,
+      "carbohydrates": 8.0,
+      "fats": 0.5,
       "serving_size": 180.0
     },
-    "processing_time": 10.84067702293396
+    "processing_time": 10.659240961074829
   },
   {
     "success": true,
@@ -522,7 +522,7 @@
       "fats": 24.0,
       "serving_size": 120.0
     },
-    "processing_time": 8.596951961517334
+    "processing_time": 8.806757926940918
   },
   {
     "success": true,
@@ -530,14 +530,14 @@
     "file_name": "36.jpg",
     "response": {
       "success": true,
-      "description": "Majadito de charque con huevo frito, servido en plato de barro tradicional",
-      "calories": 520.0,
-      "proteins": 28.0,
-      "carbohydrates": 65.0,
-      "fats": 15.0,
-      "serving_size": 380.0
+      "description": "Arroz con huevo frito servido en plato de barro tradicional",
+      "calories": 445.0,
+      "proteins": 12.5,
+      "carbohydrates": 58.0,
+      "fats": 16.8,
+      "serving_size": 280.0
     },
-    "processing_time": 10.695559978485107
+    "processing_time": 9.295208930969238
   },
   {
     "success": true,
@@ -552,7 +552,7 @@
       "fats": 36.0,
       "serving_size": 280.0
     },
-    "processing_time": 10.230923891067505
+    "processing_time": 10.616905927658081
   },
   {
     "success": true,
@@ -560,14 +560,14 @@
     "file_name": "38.jpg",
     "response": {
       "success": true,
-      "description": "Sopa cremosa con fideos, verduras mixtas incluyendo zanahoria, apio y hierbas verdes, servida en plato hondo blanco",
-      "calories": 185.0,
-      "proteins": 6.5,
-      "carbohydrates": 28.0,
-      "fats": 5.5,
+      "description": "Sopa cremosa con fideos, pollo desmenuzado, zanahoria en cubitos, apio y hierbas verdes (posiblemente perejil o cilantro)",
+      "calories": 245.0,
+      "proteins": 18.5,
+      "carbohydrates": 22.0,
+      "fats": 8.5,
       "serving_size": 280.0
     },
-    "processing_time": 10.172740697860718
+    "processing_time": 11.100811004638672
   },
   {
     "success": false,
@@ -580,14 +580,14 @@
     "file_name": "40.jpg",
     "response": {
       "success": true,
-      "description": "Plato con carne de res en trozos, papas cocidas enteras, tomate en rodajas, cebolla blanca en aros y lechuga",
+      "description": "Plato de carne de res guisada con papas cocidas, cebolla blanca, tomate cherry, zanahoria y lechuga",
       "calories": 425.0,
       "proteins": 28.5,
       "carbohydrates": 35.0,
       "fats": 18.5,
       "serving_size": 380.0
     },
-    "processing_time": 4.232502698898315
+    "processing_time": 3.5697109699249268
   },
   {
     "success": false,
@@ -600,14 +600,14 @@
     "file_name": "42.jpg",
     "response": {
       "success": true,
-      "description": "Silpancho cochabambino con carne de res deshilachada, arroz blanco, papa frita en rodajas y huevo frito encima",
+      "description": "Silpancho cochabambino con carne de res deshilachada, arroz blanco, papa cocida y huevo frito encima",
       "calories": 720.0,
       "proteins": 35.0,
       "carbohydrates": 65.0,
       "fats": 28.0,
       "serving_size": 450.0
     },
-    "processing_time": 3.9978160858154297
+    "processing_time": 3.4477951526641846
   },
   {
     "success": true,
@@ -615,14 +615,14 @@
     "file_name": "43.jpg",
     "response": {
       "success": true,
-      "description": "Plato con milanesa de pollo empanizada, arroz blanco, puré de papa, salsa roja con arvejas verdes, y ensalada de lechuga con tomate y cebolla",
-      "calories": 742.0,
-      "proteins": 38.5,
-      "carbohydrates": 78.2,
-      "fats": 28.3,
-      "serving_size": 420.0
+      "description": "Plato tradicional boliviano con milanesa de pollo empanizada, arroz blanco, puré de papa, arvejas verdes, salsa roja (posiblemente llajwa o salsa criolla) y ensalada de rábano y lechuga",
+      "calories": 720.0,
+      "proteins": 35.0,
+      "carbohydrates": 78.0,
+      "fats": 28.0,
+      "serving_size": 450.0
     },
-    "processing_time": 11.584642171859741
+    "processing_time": 10.588013648986816
   },
   {
     "success": true,
@@ -630,14 +630,14 @@
     "file_name": "44.jpg",
     "response": {
       "success": true,
-      "description": "Bebida refrescante tipo té helado o refresco de color ámbar rojizo servido en vaso alto con hielo",
-      "calories": 140.0,
+      "description": "Bebida gaseosa de cola con hielo servida en vaso de vidrio",
+      "calories": 147.0,
       "proteins": 0.0,
-      "carbohydrates": 35.0,
+      "carbohydrates": 39.0,
       "fats": 0.0,
       "serving_size": 350.0
     },
-    "processing_time": 8.140219926834106
+    "processing_time": 7.916054010391235
   },
   {
     "success": true,
@@ -645,14 +645,14 @@
     "file_name": "45.jpg",
     "response": {
       "success": true,
-      "description": "Papas fritas doradas cortadas en bastones servidas en plato blanco con decoración floral",
+      "description": "Papas fritas doradas cortadas en bastones servidas en plato blanco",
       "calories": 365.0,
       "proteins": 4.5,
       "carbohydrates": 48.0,
       "fats": 18.0,
       "serving_size": 150.0
     },
-    "processing_time": 8.656584024429321
+    "processing_time": 10.689104080200195
   },
   {
     "success": true,
@@ -660,14 +660,14 @@
     "file_name": "46.jpg",
     "response": {
       "success": true,
-      "description": "Api con leche - bebida tradicional boliviana de maíz morado fermentado con leche, servida en vaso de vidrio",
-      "calories": 180.0,
-      "proteins": 6.5,
-      "carbohydrates": 32.0,
-      "fats": 3.2,
-      "serving_size": 250.0
+      "description": "Té de hierbas o infusión caliente servida en taza de vidrio transparente",
+      "calories": 2.0,
+      "proteins": 0.0,
+      "carbohydrates": 0.5,
+      "fats": 0.0,
+      "serving_size": 200.0
     },
-    "processing_time": 11.22287893295288
+    "processing_time": 9.528049945831299
   },
   {
     "success": true,
@@ -675,14 +675,14 @@
     "file_name": "47.jpg",
     "response": {
       "success": true,
-      "description": "Silpancho con arroz blanco y plátano frito - filete de carne empanizada y frita acompañado de arroz blanco cocido y rodajas de plátano maduro frito",
+      "description": "Silpancho con arroz blanco y plátano frito - carne de res apanada y frita acompañada de arroz cocido y tajadas de plátano maduro frito",
       "calories": 892.0,
       "proteins": 38.5,
-      "carbohydrates": 89.2,
-      "fats": 42.8,
+      "carbohydrates": 78.2,
+      "fats": 45.8,
       "serving_size": 450.0
     },
-    "processing_time": 9.536200284957886
+    "processing_time": 11.468232154846191
   },
   {
     "success": true,
@@ -690,14 +690,14 @@
     "file_name": "48.jpg",
     "response": {
       "success": true,
-      "description": "Api con leche - bebida tradicional boliviana de maíz morado cocido con leche, azúcar y canela en polvo espolvoreada por encima",
-      "calories": 180.0,
+      "description": "Arroz con leche boliviano servido en tazón, preparado con arroz cocido en leche, azúcar y espolvoreado con canela en polvo",
+      "calories": 195.0,
       "proteins": 6.5,
-      "carbohydrates": 32.0,
-      "fats": 3.5,
+      "carbohydrates": 35.0,
+      "fats": 4.2,
       "serving_size": 250.0
     },
-    "processing_time": 14.08925199508667
+    "processing_time": 11.80165719985962
   },
   {
     "success": true,
@@ -705,14 +705,14 @@
     "file_name": "49.jpg",
     "response": {
       "success": true,
-      "description": "Hamburguesa con carne de res, huevo frito, queso, cebolla, tomate y salsa en pan brioche",
+      "description": "Hamburguesa con carne de res, huevo frito, queso, cebolla, tomate y salsa en pan blanco",
       "calories": 612.0,
       "proteins": 28.5,
       "carbohydrates": 35.2,
       "fats": 38.8,
       "serving_size": 280.0
     },
-    "processing_time": 4.932403087615967
+    "processing_time": 6.708406209945679
   },
   {
     "success": true,
@@ -721,12 +721,12 @@
     "response": {
       "success": true,
       "description": "Fricasé de cerdo con mote de maíz blanco y rodaja de limón",
-      "calories": 720.0,
-      "proteins": 35.0,
+      "calories": 520.0,
+      "proteins": 28.5,
       "carbohydrates": 45.0,
-      "fats": 42.0,
+      "fats": 25.0,
       "serving_size": 380.0
     },
-    "processing_time": 10.966899156570435
+    "processing_time": 10.097126007080078
   }
 ]
